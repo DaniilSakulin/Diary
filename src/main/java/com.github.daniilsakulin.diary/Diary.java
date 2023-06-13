@@ -1,4 +1,5 @@
 package com.github.daniilsakulin.diary;
+
 public class Diary {
     public void addTask() {
 
